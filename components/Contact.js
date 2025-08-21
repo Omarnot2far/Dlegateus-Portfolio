@@ -4,12 +4,12 @@ function Contact() {
       {
         title: "Email",
         icon: "mail",
-        action: () => window.open('mailto:contact@dlegateus.com')
+        action: () => window.open('mailto:info@dlegateus.com')
       },
       {
         title: "LinkedIn", 
         icon: "linkedin",
-        action: () => window.open('https://linkedin.com/company/dlegateus', '_blank')
+        action: () => window.open('https://www.linkedin.com/company/dlegateus-com', '_blank')
       },
       {
         title: "Facebook",
