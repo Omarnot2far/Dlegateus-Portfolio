@@ -9,7 +9,7 @@ function Contact() {
       {
         title: "LinkedIn", 
         icon: "linkedin",
-        action: () => window.open('https://www.linkedin.com/company/dlegateus-com', '_blank')
+        action: () => window.open('https://linkedin.com/company/dlegateus-com', '_blank')
       },
       {
         title: "Facebook",
