@@ -13,28 +13,28 @@ function Portfolio() {
         date: "14 Mar 2024", 
         description: "VAT registered with HMRC and digital links set for MTD.",
         status: "complete",
-        documentUrl: "https://www.gov.uk/vat-registration/how-to-register"
+        documentUrl: "https://drive.google.com/drive/folders/1TvrfrukYf5Dpg00wzLJqNXMTa3D_p6g_?usp=sharing"
       },
       {
         title: "Quarterly VAT returns submission",
         date: "30 Jun 2024",
         description: "Timely submission via MTD. Reconciled ledgers and supporting schedules.",
         status: "complete",
-        documentUrl: "https://www.gov.uk/file-your-vat-return"
+        documentUrl: "https://drive.google.com/drive/folders/16x9Je7QrKNUPlJFxr1Ri0B1CJa1wMTTu?usp=sharing"
       },
       {
         title: "Payroll cycle & submission",
         date: "Monthly 2024",
         description: "RTI submissions processed. Payslips issued and PAYE settled.",
         status: "active",
-        documentUrl: "https://www.gov.uk/running-payroll"
+        documentUrl: "https://drive.google.com/drive/folders/1JRHiEi7jB87T6D7Atwn_-IwNJdxK8MfH?usp=sharing"
       },
       {
         title: "Year end filing",
         date: "05 Jan 2025",
         description: "Statutory accounts prepared and filed with Companies House.",
         status: "upcoming",
-        documentUrl: "https://www.gov.uk/annual-accounts"
+        documentUrl: "https://drive.google.com/drive/folders/1LlMUgMxe1bkMnDCZKmlAn9_IT5Q_-wUZ?usp=sharing"
       }
     ];
 
