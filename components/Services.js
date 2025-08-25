@@ -5,25 +5,25 @@ function Services() {
         title: "Bookkeeping & Financial Records",
         description: "Clean ledgers, reconciliations, and audit-ready workflows.",
         icon: "book-open",
-        sampleUrl: "https://www.gov.uk/government/publications/corporation-tax-accounting-periods-and-profits-ct600-2023"
+        sampleUrl: "https://docs.google.com/spreadsheets/d/1QRF8W13ZA8byzhRBSYRJT-IXeyBUHalh/edit?usp=drive_link&ouid=108183626079313624490&rtpof=true&sd=true"
       },
       {
         title: "VAT & HMRC Compliance", 
         description: "MTD-ready VAT returns and HMRC submissions without stress.",
         icon: "shield-check",
-        sampleUrl: "https://www.gov.uk/guidance/making-tax-digital-for-vat"
+        sampleUrl: "https://drive.google.com/drive/folders/16x9Je7QrKNUPlJFxr1Ri0B1CJa1wMTTu?usp=sharing"
       },
       {
         title: "Payroll & Employee Management",
         description: "Accurate RTI, payslips, and PAYE compliance each cycle.",
         icon: "users",
-        sampleUrl: "https://www.gov.uk/guidance/what-payroll-information-to-report-to-hmrc"
+        sampleUrl: "https://drive.google.com/drive/folders/1JRHiEi7jB87T6D7Atwn_-IwNJdxK8MfH?usp=sharing"
       },
       {
         title: "Annual Accounts & Companies House Filings",
         description: "Statutory accounts and filings delivered on time.",
         icon: "file-text",
-        sampleUrl: "https://www.gov.uk/guidance/prepare-file-annual-accounts-for-companies-house"
+        sampleUrl: "https://drive.google.com/drive/folders/1LlMUgMxe1bkMnDCZKmlAn9_IT5Q_-wUZ?usp=sharing"
       },
       {
         title: "Tax Return Preparation",
@@ -41,13 +41,13 @@ function Services() {
         title: "Corporate Tax (CT600)",
         description: "Accurate CT600 preparation and submissions for companies.",
         icon: "building",
-        sampleUrl: "https://www.gov.uk/government/publications/corporation-tax-return-ct600-2023"
+        sampleUrl: "https://drive.google.com/drive/folders/1On784ZLSWmQ9pJQVbwObAHs5vSsFbT0L?usp=sharing"
       },
       {
         title: "Self Assessment (SA100)",
         description: "Personal tax returns filed with clarity and compliance.",
         icon: "user-check",
-        sampleUrl: "https://www.gov.uk/self-assessment-tax-returns"
+        sampleUrl: "https://drive.google.com/drive/folders/1zZhdrv2guMWs3DuhbmLnKWu5YXDnUoqG?usp=sharing"
       }
     ];
 
